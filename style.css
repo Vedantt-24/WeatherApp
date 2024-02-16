@@ -55,40 +55,40 @@ body{
     width: 20px;
 } 
 
-/* .weather-icon{
+.weather-icon{
  width: 170px;
- margin-top: 30px; 
-} */
+ margin-top: 30px;  
+} 
 
-/* .weather h1{
+.weather h1{
     font-size: 80px;
     font-weight: 500;
-     padding: 10px; 
-} */
+    padding: 10px; 
+} 
 
-/* .weather h1{
+.weather h2{
     font-size: 45px;
     font-weight: 400;
     margin-top: -10px; 
-}  */
+}  
 
- /* .details{
+.details{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 20px;
     margin-top: 50px;
-}  */
-/* .col{
+}  
+.col{
     display: flex;
     align-items: center;
     text-align: left;
-} */
-/* .col img{
+} 
+.col img{
     width: 35px;
     margin-right: 10px; 
-} */
-/* .humidity , .wind{
+} 
+.humidity , .wind{
     font-size: 18px;
     margin-top: -6px;
-}  */
+}  
