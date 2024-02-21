@@ -1,1 +1,3 @@
-These is me vedant trying to learn Js
+My first github repo
+<br>
+This is me trying to learn js
